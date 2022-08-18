@@ -1,0 +1,2 @@
+step1:Open cmd comment php artisan serve
+step2:Open another cmd comment npm run watch
